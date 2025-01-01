@@ -57,6 +57,14 @@
 
 ## Problem Solving  
 
+GEEKSFORGEEKS
+<br/>
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/logeshkumar10)](https://www.geeksforgeeks.org/user/logeshkumar10/)
+<br/>
+LEETCODE
+<br/>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/logesh07cbe?theme=dark&font=Abel)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Logeshkumar007&theme=dracula)](https://github.com/Logeshkumar007/github-readme-activity-graph)
